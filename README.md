@@ -32,7 +32,7 @@ Inspired heavily by Sebastian Lagues video on Ant and Slime Simulations.
 
 ## Controls:
 
-Run slime.py to run simulation
+Run py slime.py in terminal to run simulation
 
              +/- ~ Add or take away amount of spores released
  
